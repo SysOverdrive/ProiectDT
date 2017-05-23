@@ -1,0 +1,2 @@
+//include ':app'
+include ':app', ':registration', ':login', ':restaurant_list', ':location_listing', ':order_placement', ':order_confirmation', ':order_success'
